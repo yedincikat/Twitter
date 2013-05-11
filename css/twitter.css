@@ -1,0 +1,123 @@
+a {text-decoration:none;}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:active  {text-decoration:none;}
+
+
+#mainContent {
+margin: 0;
+padding: 0;
+list-style-type: none;
+display:none;
+}
+
+.space {
+height:30px;
+}
+.tHeader {
+padding:10px;
+background-color:#1a1a1a;
+}
+#mainContent p {margin-top: 0; margin-bottom: 0;}
+
+#mainContent .stats a { color:#0084B4; }
+#mainContent .stats a:hover { color:#afadad; }
+#mainContent .stats a:visited { color:#0084B4; }
+
+.Retweet,.Favorite { color:#0084B4; }
+.Retweet:hover { color:#afadad; }
+.Retweet:visited { color:#0084B4; }
+
+.Favorite:hover { color:#afadad; }
+.Favorite:visited { color:#0084B4; }
+
+.stats {
+font-family:arial;
+font-size:9pt;
+color:#afadad;
+padding-top:5px;
+padding-bottom:5px;
+}
+
+#twitterName {
+font-family:arial;
+font-size:18pt;
+color:#ffbe2e;
+}
+
+#screenName {
+font-family:arial;
+font-size:12pt;
+color:#afadad;
+}
+
+#twitterDesc, #twitterLocation, #twitterUrl {
+padding-top:5px;
+font-family:arial;
+font-size:9pt;
+color:#afadad;
+}
+#tContent {
+background-color:#1a1a1a;
+}
+#tContent ul {
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+#tTitle {
+padding:15px;
+font-family:arial;
+font-size:13pt;
+color:#ffbe2e;
+border-bottom:1px solid #202020
+}
+.tweets {
+padding:10px;
+border-bottom:1px solid #202020
+}
+.fullName {
+font-family:arial;
+font-size:10pt;
+color:#636363;
+padding-right:5px;
+}
+
+.fullLink {
+font-family:arial;
+font-size:9pt;
+color:#636363;
+padding-right:30px;
+}
+
+.timeDate {
+font-family:arial;
+font-size:9pt;
+color:#636363;
+padding-right:10px;
+}
+
+.Retweet {
+font-family:arial;
+font-size:9pt;
+padding-right:20px;
+}
+
+.Favorite {
+font-family:arial;
+font-size:9pt;
+}
+.fullText 
+{
+font-family:arial;
+font-size:9pt;
+color:#afadad;
+padding-right:30px;
+}
+.fullText a
+{
+color:#ffffff;
+font-size:8pt;
+}
+.fullText a:hover { color:#0084B4; }
+.fullText a:visited { color:#ffffff; }
