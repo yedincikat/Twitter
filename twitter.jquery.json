@@ -1,0 +1,35 @@
+{
+    "name": "twitter",
+    "title": "twitter",
+    "description": "Get Twitter tweets to create custom timeline and facebook tabs.",
+    "keywords": [
+        "twitter",
+        "facebook",
+	"feed"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Yedinci Kat",
+        "url": "https://github.com/yedincikat"
+    },
+    "maintainers": [
+        {
+            "name": "Yedinci Kat",
+            "email": "info@yedincikat.net",
+            "url": "http://www.yedincikat.net"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/yedincikat/Twitter/issues",
+    "homepage": "https://github.com/yedincikat/Twitter",
+    "docs": "https://github.com/yedincikat/Twitter",
+    "download": "https://github.com/yedincikat/Twitter",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
